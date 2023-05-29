@@ -12,8 +12,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="177dp"
         android:text="Clique aqui"
-        android:translationX="20dp"
-        android:translationY="20dp"
         android:textColor="@color/black"
         android:backgroundTint="@color/purple_500"
         android:layout_margin="25dp"/>
